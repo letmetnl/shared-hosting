@@ -839,7 +839,7 @@ font-family: Nunito;
 					">
 							<div class="card-body" style="text-align: center;">
 								<h3 class="pl-0">Radically Transparent</h3>
-								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);">We publish our financial reports
+								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);font-family: Poppins, sans-serif;">We publish our financial reports
 									for you to see exactly where the
 									income
 									from your tabs goes.</p>
@@ -856,7 +856,7 @@ font-family: Nunito;
 							">
 							<div class="card-body" style="text-align: center;">
 								<h3 class="pl-0">Completely Non-profit</h3>
-								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);">We don't have shareholders to
+								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);font-family: Poppins, sans-serif;">We don't have shareholders to
 									please and do not generate any profits or dividends.</p>
 							</div>
 						</div>
@@ -867,7 +867,7 @@ font-family: Nunito;
 							<img src="images/privacy/4560.jpg" class="card-img-top" alt="...">
 							<div class="card-body" style="text-align: center;">
 								<h3 class="pl-0">Privacy Friendly</h3>
-								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);">We don't track your search or
+								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);font-family: Poppins, sans-serif;">We don't track your search or
 									browsing activities. What you do online
 									is
 									your business and yours alone.</p>
