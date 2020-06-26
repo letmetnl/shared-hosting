@@ -55,6 +55,7 @@
 
 		<!-- Main Stylesheet -->
 		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/footer-style.css">
 		<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/scale.css" />
@@ -126,6 +127,8 @@
 						font-size: 15px;
 						font-weight: 600;
 						border-color: #0080ff;
+						border: 2px solid;
+
 						
 					" target="_blank"><span class="elementor-button-content-wrapper ">
 									<span class="elementor-button-icon elementor-align-icon-left" style="
@@ -168,31 +171,34 @@
 										max-width: 250px;
 										font-family: Poppins, sans-serif;
 										font-size: 15px;
-									"><span class="elementor-button-content-wrapper  >
+									 "><span class="elementor-button-content-wrapper  >
 									 class=" elementor-button-icon elementor-align-icon-left">
 											<i aria-hidden="true" class="fab fa-chrome"></i> </span>
 										<span class="elementor-button-text">&nbsp; &nbsp; ADD TO CHROME</span>
 										</span></a>
-									<a href="https://addons.mozilla.org/en-US/firefox/addon/opentabs_org/" target="_blank"
-										class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center mt-3"
-										style="
-										max-width: 250px;
-										font-size: 15px;
-									"><span class="elementor-button-content-wrapper">
-											<span class="elementor-button-icon elementor-align-icon-left">
-												<i aria-hidden="true" class="fab fa-firefox"></i> </span>
-											<span class="elementor-button-text">&nbsp; &nbsp; ADD TO firefox</span>
-										</span></a>
-									<a href="blog/How-to-install-Ope-Tabs-on-Safari.html" target="_blank"
+										<a href="blog/How-to-install-Ope-Tabs-on-Safari.php" target="_blank"
 										class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center mt-3 mb-3"
 										style="
 										max-width: 250px;
 										font-size: 15px;
-									"><span class="elementor-button-content-wrapper">
+									   "><span class="elementor-button-content-wrapper">
 											<span class="elementor-button-icon elementor-align-icon-left">
 												<i aria-hidden="true" class="fab fa-safari"></i> </span>
 											<span class="elementor-button-text">&nbsp; &nbsp; Add To Safari</span>
-										</span></a>
+										</span>
+									</a>
+										<a href="https://addons.mozilla.org/en-US/firefox/addon/opentabs_org/" target="_blank"
+										class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center mt-3"
+										style="
+										max-width: 250px;
+										font-size: 15px;
+									 "><span class="elementor-button-content-wrapper">
+											<span class="elementor-button-icon elementor-align-icon-left">
+												<i aria-hidden="true" class="fab fa-firefox"></i> </span>
+											<span class="elementor-button-text">&nbsp; &nbsp; ADD TO firefox</span>
+										</span>
+									</a>
+									
 								</div>
 							</div>
 						</div>
@@ -202,6 +208,7 @@
 
 
 			<!-- Section Intro Start -->
+
 
 
 			<section class=" section about-2 position-relative  bg-about-tabs wow fadeIn " data-wow-duration="1.5s" style="
@@ -249,23 +256,27 @@
 
 										<!--Instagram-->
 										<a href="https://www.instagram.com/open_tabs/" class="ins-ic" target="_blank">
-											<i style="color: white;" class="fab fa-instagram fa-lg white-text mr-4"> </i>
+											<i style="color: white;"
+												class="fab fa-instagram fa-lg white-text mr-4 hvr-grow"> </i>
 										</a>
 
 										<!--Linkedin -->
 										<a href="https://linkedin.com/company/opentabs-org" class="li-ic" target="_blank">
-											<i style="color: white;" class="fab fa-linkedin-in fa-lg white-text mr-4"> </i>
+											<i style="color: white;"
+												class="fab fa-linkedin-in fa-lg white-text mr-4 hvr-grow"> </i>
 										</a>
 
 
 										<!-- youtube -->
 										<a href="https://www.youtube.com/channel/UC7Ggi0aAxmxHtoMqZ6BckBg" class="tw-ic"
 											target="_blank">
-											<i style="color: white;" class="fab fa-youtube fa-lg white-text mr-4"> </i>
+											<i style="color: white;" class="fab fa-youtube fa-lg white-text mr-4 hvr-grow">
+											</i>
 										</a>
 										<!-- Blog -->
 										<a href="/blog" class="tw-ic" target="_blank">
-											<i style="color: white;" class="fas fa-blog fa-lg white-text mr-4"> </i>
+											<i style="color: white;" class="fas fa-blog fa-lg white-text mr-4 hvr-grow">
+											</i>
 										</a>
 
 
@@ -288,7 +299,7 @@
 							<div class="counter-item text-center mb-5 mb-lg-0">
 								<div class="icon-box"><i aria-hidden="true" class="fas fa-users fa-3x"></i></div>
 								<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
-										style="font-size: 50px;color: #ffffff;">604</span></h3>
+										style="font-size: 50px;color: #ffffff;">800</span></h3>
 								<p>Users</p>
 							</div>
 						</div>
@@ -370,7 +381,7 @@ font-family: Nunito;
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 d-flex justify-content-center">
 							<div class="macbook mt-4 ">
-								<img src="/images/macbook.png" alt="">
+								<img src="images/macbook.png" alt="">
 							</div>
 
 						</div>
@@ -381,6 +392,137 @@ font-family: Nunito;
 
 			</section>
 			<!---END  How does it work section-->
+			<section class="section about-2 position-relative   wow fadeIn " data-wow-duration="1.5s" style="
+font-family: Nunito;background-color: #fff;
+
+">
+				<div class="container">
+					<div class="d-flex justify-content-center mb-5">
+						<h1 style="
+						text-align: center;  font-family: Nunito, sans-serif; padding-bottom: 3px;
+	
+					"> Award-Winning Startup </h1>
+					</div>
+					<div class="row d-flex justify-content-center">
+						<div class="col-lg-2 col-md-2 ">
+							<div class="d-flex justify-content-center">
+								<a href="https://hatchcolab.ch" target="_blank"> <img
+										class="hvr-grow d-flex align-items-center" src="images/Hatch_Logo_Primary_RGB.png"
+										alt="" style="width: 160px;
+								padding-bottom: 18px;
+								padding-top: 18px;"></a>
+							</div>
+							<div class="about-item  mb-5 mb-lg-0 d-flex justify-content-center">
+								<div class="col" style="text-align: center;color: #444;">
+									<div>
+										<p class="mb-0  pb-2" style="
+										padding-top: 25px;
+									"><b>Finalist</b></p>
+									</div>
+									<div>
+										<p style="line-height: 22px;">Social Tech Accelerator
+										</p>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-2 ">
+							<div class="d-flex justify-content-center">
+								<a href="http://www.jacobs-startup.com/" target="_blank"><img
+										class="hvr-grow d-flex align-items-center" src="images/Jacobs.png" alt=""
+										style="height: 92px;margin-bottom: 10px;"></a>
+							</div>
+							<div class="about-item  mb-5 mb-lg-0 d-flex justify-content-center">
+								<div class="col" style="text-align: center;color: #444;">
+									<div>
+										<p class="mb-0  pb-2" style="
+										padding-top: 25px;
+									"><b>Finalist</b></p>
+									</div>
+									<div>
+										<p style="line-height: 22px;">Jacobs Startup Competition
+										</p>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-2 ">
+							<div class="d-flex justify-content-center">
+								<a href="https://www.ie.edu/business-school/news-and-events/whats-going-on/ie-green-week-sustainable-entrepreneurship-waste-management/"
+									target="_blank"><img class="hvr-grow d-flex align-items-center" src="images/IE.png"
+										alt="" style="height: 100px;"></a>
+							</div>
+							<div class="about-item  mb-5 mb-lg-0 d-flex justify-content-center">
+								<div class="col" style="text-align: center;color: #444;">
+									<div>
+										<p class="mb-0  pb-2" style="
+										padding-top: 25px;
+									"><b>Winner</b></p>
+									</div>
+									<div>
+										<p style="line-height: 22px;">Sustainable Entrepreneurship
+
+										</p>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-2 ">
+							<div class="d-flex justify-content-center">
+								<a href="https://en.explorerbyx.org/" target="_blank"><img
+										class="hvr-grow d-flex align-items-center" src="images/santander.png" alt="" style="width: 160px;     padding-bottom: 10px;
+								padding-top: 10px;"></a>
+							</div>
+							<div class="about-item  mb-5 mb-lg-0 d-flex justify-content-center">
+								<div class="col" style="text-align: center;color: #444;">
+									<div>
+										<p class="mb-0  pb-2" style="
+										padding-top: 25px;
+									"><b>Participant</b></p>
+									</div>
+									<div>
+										<p style="line-height: 22px;">Young People With Solutions
+										</p>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-2 ">
+							<div class="d-flex justify-content-center">
+								<a href="https://www.google.com/nonprofits/" target="_blank"><img
+										class="hvr-grow d-flex align-items-center" src="images/google-adgrant.png" alt=""
+										style="width: 160px;    padding-bottom: 22px;
+								padding-top: 22px;"></a>
+							</div>
+							<div class="about-item  mb-5 mb-lg-0 d-flex justify-content-center">
+								<div class="col" style="text-align: center;color: #444;">
+									<div>
+										<p class="mb-0  pb-2" style="
+										padding-top: 18px;
+									"><b>Recipient</b></p>
+									</div>
+									<div>
+										<p style="line-height: 22px;">Google AdGrant</p>
+									</div>
+								</div>
+
+
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</section>
+
 			<!--loans section-->
 
 			<section class="section about-2 position-relative  bg-about-loans wow fadeIn" data-wow-duration="1.5s" style="
@@ -677,136 +819,97 @@ font-family: Nunito;
 
 		<!--End- malaria section-->
 
-
-
-		<!-- Footer -->
-		<footer class="page-footer font-small indigo">
-
-			<!-- Footer Links -->
+		<section class="section about-2 position-relative  cards " style="
+		font-family: Nunito; 
+		
+		">
 			<div class="container">
+				<div class="d-flex justify-content-center mb-5">
+					<h1 style="
+					text-align: center;  font-family: Nunito, sans-serif; padding-bottom: 3px;
 
-				<!-- Grid row-->
-				<div class="row text-center d-flex justify-content-center pt-5 mb-3 mt">
-
-					<!-- Grid column -->
-					<div class="col-md-1 mb-3">
-						<h6 class=" font-weight-bold">
-							<a href="https://forms.gle/TqrAMAf5Pc6U8WK38" target="_blank">Feedback</a>
-						</h6>
-					</div>
-					<!-- Grid column -->
-					<div class="col-md-1 mb-3">
-						<h6 class=" font-weight-bold">
-							<a href="faq/index.html">FAQ</a>
-						</h6>
-					</div>
-
-					<!-- Grid column -->
-					<div class="col-md-1 mb-3">
-						<h6 class="font-weight-bold">
-							<a href="/blog">Blog</a>
-						</h6>
-					</div>
-					<!-- Grid column -->
-
-					<!-- Grid column -->
-
-					<!--	<div class="col-md-1 mb-3">
-						<h6 class=" font-weight-bold">
-							<a href="#!" class="soon" data-tippy-content="Coming Soon!">Search</a>
-						</h6>
-					</div>
-					-->
-					<!-- Grid column -->
-
-					<!-- Grid column -->
-					<div class="col-md-1 mb-3">
-						<h6 class=" font-weight-bold">
-							<a href="#tabs">Home</a>
-						</h6>
-					</div>
-					<!-- Grid column -->
-					<!--<div class="col-md-1 mb-3">
-						<h6 class=" font-weight-bold">
-							<a href="#!" class="soon" data-tippy-content="Coming Soon!">Flights</a>
-						</h6>
-					</div>-->
-					<!-- Grid column -->
-					<div class="col-md-1 mb-3">
-						<h6 class=" font-weight-bold">
-							<a href="/financials">Financials</a>
-						</h6>
-					</div>
-					<!-- Grid column -->
-					<div class="col-md-1 mb-3">
-						<h6 class=" font-weight-bold">
-							<a href="https://forms.gle/Ymj4iTeauzPLdEvs6" target="_blank">Contact</a>
-						</h6>
-					</div>
-					<!-- Grid column -->
-
+				">We Stand for a Better Internet </h1>
 				</div>
-				<!-- Grid row-->
-				<hr class="rgba-white-light" style="margin: 0 15%; padding-bottom: 20px;">
-
-				<!-- Grid row-->
-
-				<!-- Grid row-->
-				<hr class="clearfix d-md-none rgba-white-light" style="margin: 10% 15% 5%;">
-
-				<!-- Grid row-->
-				<div class="row  ">
-					<!-- Grid column -->
-					<div class="col-md-12 d-flex justify-content-center" style="
-						height: 23px;
+				<div class="row d-flex justify-content-center ">
+					<a href="financial" target="_blank">
+						<div class="card mr-5  hvr-grow" style="width: 18rem;    box-shadow: 0 2px 5px 0 rgba(74,74,74,.2);
 					">
-
-						<div class="mb-5 flex-center">
-
-							<!--Instagram-->
-							<a href="https://www.instagram.com/open_tabs/" class="ins-ic" target="_blank">
-								<i class="fab fa-instagram fa-lg white-text mr-4"> </i>
-							</a>
-
-							<!--Linkedin -->
-							<a href="https://linkedin.com/company/opentabs-org" class="li-ic" target="_blank">
-								<i class="fab fa-linkedin-in fa-lg white-text mr-4"> </i>
-							</a>
-
-
-							<!-- youtube -->
-							<a href="https://www.youtube.com/channel/UC7Ggi0aAxmxHtoMqZ6BckBg" class="tw-ic"
-								target="_blank">
-								<i class="fab fa-youtube fa-lg white-text mr-4"> </i>
-							</a>
-
-
-
+							<img src="images/privacy/59881.jpg" class="card-img-top" alt="..." style="
+						height: 190px;
+					">
+							<div class="card-body" style="text-align: center;">
+								<h3 class="pl-0">Radically Transparent</h3>
+								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);">We publish our financial reports
+									for you to see exactly where the
+									income
+									from your tabs goes.</p>
+							</div>
 						</div>
+					</a>
+					<a href="https://donorbox.org/opentabs" target="_blank">
+						<div class="card mr-5  hvr-grow" style="width: 18rem;     box-shadow: 0 2px 5px 0 rgba(74,74,74,.2);
+					">
+							<img src="images/privacy/hands-sharing-love-illustration_53876-26011.jpg" class="card-img-top"
+								alt="..." style="
+								background-color: #78bae8;
+								padding-bottom: 15px;
+							">
+							<div class="card-body" style="text-align: center;">
+								<h3 class="pl-0">Completely Non-profit</h3>
+								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);">We don't have shareholders to
+									please and do not generate any profits or dividends.</p>
+							</div>
+						</div>
+					</a>
+					<a href="privacy" target="_blank">
+						<div class="card  hvr-grow" style="width: 18rem;    box-shadow: 0 2px 5px 0 rgba(74,74,74,.2);
+					">
+							<img src="images/privacy/4560.jpg" class="card-img-top" alt="...">
+							<div class="card-body" style="text-align: center;">
+								<h3 class="pl-0">Privacy Friendly</h3>
+								<p class="card-text" style="color: rgba(0, 0, 0, 0.65);">We don't track your search or
+									browsing activities. What you do online
+									is
+									your business and yours alone.</p>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="d-flex justify-content-center mt-5">
+					<a href="#tabs"
+						class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center add-chrome"
+						style="
+							max-width: 250px;
+							font-family: Poppins, sans-serif;
+							font-size: 15px;
+							border-color: #0080ff;
+							border: 2px solid;
 
-					</div>
-					<!-- Grid column -->
+						"><span class="elementor-button-content-wrapper ">
+							<span class="elementor-button-icon elementor-align-icon-left" style="
+						font-weight: 400;
+					">
+								<i aria-hidden="true" class="fas fa-arrow-alt-circle-down"></i> </span>
+							<span class="elementor-button-text" style="
+						letter-spacing: 1px;
+						
+					"> &nbsp; Add to Browser</span>
+						</span>
+					</a>
 
 				</div>
-				<!-- Grid row-->
 
 			</div>
-			<!-- Footer Links -->
 
-			<!-- Copyright -->
-			<div class="footer-copyright text-center py-3 " style="font-family:  Nunito , sans-serif; font-weight: 
-				600; color: #0080ff; ">
-				<p style="
-					margin-right: 27px;
-					margin-bottom: 0px;
-				"> © 2020
-					OpenTabs</p>
+		</section>
 
-			</div>
-			<!-- Copyright -->
 
-		</footer>
 		<!-- Footer -->
+		<?php 
+include('includes/footer.php');
+
+?>
+
 
 		</div>
 		<!-- main wrapper end -->

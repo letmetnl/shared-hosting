@@ -42,6 +42,11 @@
 
   <!-- Theme Style -->
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../css/footer-style.css">
+
+
+
+  
 </head>
 
 <body>
@@ -79,9 +84,11 @@
               <a class="nav-link" href="../financials">Financials</a>
             </li>
           </ul>
-
         </div>
-      </div </nav> </header> <!-- END header -->
+        </div>
+    </nav>
+    
+    </header> <!-- END header -->
 
       <section class="site-section pt-5">
         <div class="container">
@@ -90,7 +97,7 @@
 
               <div class="owl-carousel owl-theme home-slider">
                 <div>
-                  <a href="en-que-consisten-los-microcreditos.html" class="a-block d-flex align-items-center height-lg"
+                  <a href="en-que-consisten-los-microcreditos.php" class="a-block d-flex align-items-center height-lg"
                     style="background-image: url('blog images/article_1thump.jpg'); ">
                     <div class="text half-to-full">
                       <div class="post-meta">
@@ -108,7 +115,7 @@
                   </a>
                 </div>
                 <div>
-                  <a href="How-can-you-help-OpenTabs.html" class="a-block d-flex align-items-center height-lg"
+                  <a href="How-can-you-help-OpenTabs.php" class="a-block d-flex align-items-center height-lg"
                     style="background-image: url('blog images/help-ot.jpg'); ">
                     <div class="text half-to-full">
                       <div class="post-meta">
@@ -124,7 +131,7 @@
                   </a>
                 </div>
                 <div>
-                  <a href="How-to-Solve-Poverty-&-Why-is-it-Our-Problem.html"
+                  <a href="How-to-Solve-Poverty-&-Why-is-it-Our-Problem.php"
                     class="a-block d-flex align-items-center height-lg"
                     style="background-image: url('blog images/end-poverty.jpg'); ">
                     <div class="text half-to-full">
@@ -150,7 +157,7 @@
           </div>
           <div class="row">
             <div class="col-md-6 col-lg-4">
-              <a href="How-to-install-Ope-Tabs-on-Safari.html" class="a-block d-flex align-items-center height-md"
+              <a href="How-to-install-Ope-Tabs-on-Safari.php" class="a-block d-flex align-items-center height-md"
                 style="background-image: url(images/safari-thumpnail.png); ">
                 <div class="text">
                   <div class="post-meta">
@@ -162,7 +169,7 @@
             </div>
 
             <div class="col-md-6 col-lg-4">
-              <a href="How-to-Solve-Poverty-&-Why-is-it-Our-Problem.html"
+              <a href="How-to-Solve-Poverty-&-Why-is-it-Our-Problem.php"
                 class="a-block d-flex align-items-center height-md"
                 style="background-image: url('blog images/end-poverty.jpg'); ">
                 <div class="text">
@@ -175,7 +182,7 @@
             </div>
 
             <div class="col-md-6 col-lg-4">
-              <a href="The-Five-Global-Risks-We-Should-Worry-About.html"
+              <a href="The-Five-Global-Risks-We-Should-Worry-About.php"
                 class="a-block d-flex align-items-center height-md"
                 style="background-image: url('blog images/global-risks.jpg'); ">
                 <div class="text">
@@ -189,7 +196,7 @@
             </div>
 
             <div class="col-md-6 col-lg-6">
-              <a href="How-can-you-help-OpenTabs.html" class="a-block d-flex align-items-center height-md"
+              <a href="How-can-you-help-OpenTabs.php" class="a-block d-flex align-items-center height-md"
                 style="background-image: url('blog images/help-ot.jpg');  ">
                 <div class="text">
                   <div class="post-meta">
@@ -202,7 +209,7 @@
 
 
             <div class="col-md-6 col-lg-6">
-              <a href="en-que-consisten-los-microcreditos.html" class="a-block d-flex align-items-center height-md"
+              <a href="en-que-consisten-los-microcreditos.php" class="a-block d-flex align-items-center height-md"
                 style="background-image: url('blog images/article_1thump.jpg'); ">
                 <div class="text">
                   <div class="post-meta">
@@ -220,133 +227,9 @@
       <!-- END section -->
 
 
-
-      <footer class="page-footer font-small indigo" style="
-      font-family: Nunito, sans-serif;
-      
-  ">
-
-        <!-- Footer Links -->
-        <div class="container">
-
-          <!-- Grid row-->
-          <div class="row text-center d-flex justify-content-center pt-5 mb-3 mt">
-
-            <!-- Grid column -->
-            <div class="col-md-1 mb-3">
-              <h6 class=" font-weight-bold">
-                <a href="https://forms.gle/TqrAMAf5Pc6U8WK38" target="_blank">Feedback</a>
-              </h6>
-            </div>
-            <!-- Grid column -->
-
-            <div class="col-md-1 mb-3">
-              <h6 class="font-weight-bold">
-                <a href="../faq/index.html">FAQ</a>
-              </h6>
-            </div>
-
-            <!-- Grid column -->
-            <div class="col-md-1 mb-3">
-              <h6 class="font-weight-bold">
-                <a href="../blog">Blog</a>
-              </h6>
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-
-            <!---   <div class="col-md-1 mb-3">
-              <h6 class=" font-weight-bold">
-                <a href="#!" class="soon" data-tippy-content="Coming Soon!" target="">Search</a>
-              </h6>
-            </div>-->
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-md-1 mb-3">
-              <h6 class=" font-weight-bold">
-                <a href="/">Home</a>
-              </h6>
-            </div>
-            <!-- Grid column -->
-            <!--  <div class="col-md-1 mb-3">
-              <h6 class=" font-weight-bold">
-                <a href="#!" class="soon" data-tippy-content="Coming Soon!">Flights</a>
-              </h6>
-            </div> -->
-            <!-- Grid column -->
-            <div class="col-md-1 mb-3">
-              <h6 class=" font-weight-bold">
-                <a href="../financials">Financials</a>
-              </h6>
-            </div>
-            <!-- Grid column -->
-            <div class="col-md-1 mb-3">
-              <h6 class=" font-weight-bold">
-                <a target="_blank" href="https://forms.gle/Ymj4iTeauzPLdEvs6">Contact</a>
-              </h6>
-            </div>
-            <!-- Grid column -->
-
-          </div>
-          <!-- Grid row-->
-          <hr class="rgba-white-light" style="margin: 0 15%; padding-bottom: 20px;">
-
-          <!-- Grid row-->
-
-          <!-- Grid row-->
-          <hr class="clearfix d-md-none rgba-white-light" style="margin: 10% 15% 5%;">
-
-          <!-- Grid row-->
-          <div class="row  ">
-            <!-- Grid column -->
-            <div class="col-md-12 d-flex justify-content-center" style="
-						height: 23px;
-					">
-
-              <div class="mb-5 flex-center">
-
-                <!--Instagram-->
-                <a href="https://www.instagram.com/open_tabs/" class="ins-ic">
-                  <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
-                </a>
-
-                <!--Linkedin -->
-                <a href="https://linkedin.com/company/opentabs-org" class="li-ic">
-                  <i class="fab fa-linkedin-in fa-lg white-text mr-4"> </i>
-                </a>
-
-
-                <!-- youtube -->
-                <a href="https://www.youtube.com/channel/UC7Ggi0aAxmxHtoMqZ6BckBg" class="tw-ic">
-                  <i class="fab fa-youtube fa-lg white-text mr-4"> </i>
-                </a>
-
-              </div>
-
-            </div>
-            <!-- Grid column -->
-
-          </div>
-          <!-- Grid row-->
-
-        </div>
-        <!-- Footer Links -->
-
-        <!-- Copyright -->
-        <div class="footer-copyright text-center py-3 " style="font-family:  Nunito , sans-serif; font-weight: 
-				600; color: #0080ff; ">
-          <p style="
-					margin-right: 27px;
-					margin-bottom: 0px;
-				"> © 2020
-            OpenTabs</p>
-
-        </div>
-        <!-- Copyright -->
-
-      </footer>
+      <?php 
+  include('../includes/footer.php');
+  ?>
       <!-- END footer -->
 
       <!-- loader -->
