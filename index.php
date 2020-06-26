@@ -1,4 +1,4 @@
-	<!doctype html>
+user	<!doctype html>
 	<html lang="en">
 
 	<head>
@@ -288,7 +288,7 @@
 							<div class="counter-item text-center mb-5 mb-lg-0">
 								<div class="icon-box"><i aria-hidden="true" class="fas fa-users fa-3x"></i></div>
 								<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
-										style="font-size: 50px;color: #ffffff;">604</span></h3>
+										style="font-size: 50px;color: #ffffff;">800+</span></h3>
 								<p>Users</p>
 							</div>
 						</div>
