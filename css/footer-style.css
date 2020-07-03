@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
 
+@media (max-width: 580px) {
+  .test {
+    padding-left: 0px !important;
+  }
+}
+
 .site-footer {
   background-color: #f9f9f9;
 }

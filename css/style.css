@@ -1494,6 +1494,13 @@ h3.quote::before {
 }
 
 @media (max-width: 570px) {
+
+
+  .card {
+    margin-right: 0px !important;
+    margin-top: 20px !important;
+  }
+
   .mob {
     max-width: 400px;
 
