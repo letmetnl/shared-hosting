@@ -171,7 +171,7 @@ c-22 39 -44 63 -79 85 -44 27 -59 30 -140 33 -72 2 -99 -1 -131 -16z" />
                                 target="_blank"><img class="hvr-grow"
                                     src="../images/Download-Button-for-Google-Chrome.png" alt=""></a></li>
                         <li><a class="footer-list-hover"
-                                href="http://localhost/latest-home/blog/How-to-install-Ope-Tabs-on-Safari.php"
+                                href="/blog/How-to-install-Ope-Tabs-on-Safari.php"
                                 target="_blank"><img class="pt-2 hvr-grow"
                                     src="../images/Download-Button-for-Apple-Safari.png" alt=""></a></li>
                         <li><a class="footer-list-hover"
