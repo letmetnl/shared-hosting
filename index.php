@@ -299,7 +299,7 @@
 							<div class="counter-item text-center mb-5 mb-lg-0">
 								<div class="icon-box"><i aria-hidden="true" class="fas fa-users fa-3x"></i></div>
 								<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
-										style="font-size: 50px;color: #ffffff;">800</span></h3>
+										style="font-size: 50px;color: #ffffff;">969</span></h3>
 								<p>Users</p>
 							</div>
 						</div>
@@ -308,7 +308,7 @@
 								<div class="icon-box"><i aria-hidden="true" class="fas fa-money-bill-wave fa-3x"></i></div>
 								<h3 class="mb-0 mt-4 counter"><span style="font-size: 50px;color: #ffffff;">€</span><span
 										class="counter-stat font-weight-bold"
-										style="font-size: 50px;color: #ffffff;">2863.09</span>
+										style="font-size: 50px;color: #ffffff;">2,863.09</span>
 								</h3>
 								<p>Donated</p>
 							</div>
