@@ -7,7 +7,7 @@
 padding-top: 21px;">
         <div class="container container-fluid ">
             <div class="row d-flex justify-content-center">
-                <div class=" footer-logo-mob col-lg-3 col-md-3 col-sm-12  d-lg-flex align-items-end justify-content-center flex-column ">
+                <div class="  footer-logo-mob col-lg-3 col-md-3 col-6  d-lg-flex align-items-end justify-content-center flex-column ">
                     <div class="footer-section d-flex align-items-center ">
                         <a class="navbar-brand " href="/">
                             <svg version="1.0" xmlns="https://www.w3.org/2000/svg" width="100px" height=""
@@ -102,12 +102,12 @@ padding-top: 21px;">
                     </div>
 
                 </div>
-                <div class="col-lg-3 col-md-3 col-sm-12 footer-force-height d-lg-flex flex-column align-items-center mb-3">
+                <div class="col-lg-3 col-md-3 col-6 footer-force-height d-lg-flex flex-column align-items-center mb-3">
 
                     <ul class="footer-list " style="
                 line-height: 27px;
                 
-            ">
+              ">
                         <li>
                             <p style="
                             font-weight: 600;
@@ -129,7 +129,7 @@ padding-top: 21px;">
 
                     </ul>
                 </div>
-                <div class="  col-lg-3 col-md-3 col-sm-12 footer-force-height d-lg-flex flex-column align-items-center mb-3">
+                <div class="  col-lg-3 col-md-3 col-6 footer-force-height d-lg-flex flex-column align-items-center mb-3">
 
                     <ul class="footer-list " style="
                     line-height: 27px;">
@@ -152,21 +152,21 @@ padding-top: 21px;">
 
                     </ul>
                 </div>
-                <div class="col-lg-3 col-md-3 col-sm-12 footer-force-height d-lg-flex flex-column align-items-center">
-                    <p style="
-                font-weight: 600;
-                letter-spacing: 0.6px;
-                font-size: 16px;
-                color: rgba(0, 0, 0, 0.65);
-                font-family: Poppins, sans-serif;
+                <div class="col-lg-3 col-md-3 col-6 footer-force-height d-lg-flex flex-column align-items-center">
+                        <p style="
+                    font-weight: 600;
+                    letter-spacing: 0.6px;
+                    font-size: 16px;
+                    color: rgba(0, 0, 0, 0.65);
+                    font-family: Poppins, sans-serif;
 
 
-            "> AVAILABLE ON</p>
-                    <ul class="footer-list" style="
-                line-height: 27px;
-                
-            ">
-                        <li><a class="footer-list-hover"
+                    "> AVAILABLE ON</p>
+                        <ul class="footer-list" style="
+                    line-height: 27px;
+                    
+                    ">
+                         <li><a class="footer-list-hover"
                                 href="https://chrome.google.com/webstore/detail/opentabs/igeeighenacaciapkehcacnojlegbnpa"
                                 target="_blank"><img class="hvr-grow"
                                     src="../images/Download-Button-for-Google-Chrome.png" alt=""></a></li>
@@ -180,7 +180,7 @@ padding-top: 21px;">
                                     alt=""></a></li>
                     </ul>
                 </div>
-
+                
 
             </div>
         </div>
