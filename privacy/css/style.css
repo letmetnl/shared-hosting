@@ -1483,14 +1483,7 @@ h3.quote::before {
     text-align: center;
   }
 
-  .macbook {
-    max-width: 50px;
-  }
 
-  .macbook img {
-    max-width: 50px;
-
-  }
 }
 
 @media (max-width: 768px) {
