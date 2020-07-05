@@ -50,17 +50,17 @@
   <header role="banner">
 
 
-    <div class="container logo-wrap">
+  <div class="container logo-wrap">
       <div class="row pt-5">
         <div class="col-12 text-center">
-          <a class="absolute-toggle d-block d-md-none" data-toggle="collapse" href="#navbarMenu" role="button"
-            aria-expanded="false" aria-controls="navbarMenu"><span class="burger-lines"></span></a>
+          <a class="absolute-toggle d-block d-md-none" href="#navbarMenu" role="button"
+            aria-expanded="false" aria-controls="navbarMenu"></a>
           <h1><a href="/blog">OpenTabs Blog</a></h1>
         </div>
       </div>
     </div>
 
-    <nav class="navbar navbar-expand-md  navbar-light bg-light">
+    <nav class=" navbar-expand  navbar-light ">
       <div class="container">
 
 
@@ -70,17 +70,18 @@
             <li class="nav-item">
               <a class="nav-link " href="/blog">Blog</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link " href="../">Home</a>
+            </li>
+
 
             <li class="nav-item">
-              <a class="nav-link " href="/">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/financials">Financials</a>
+              <a class="nav-link" href="../financials">Financials</a>
             </li>
           </ul>
-
         </div>
-      </div </nav> </header> <!-- END header -->
+      </div>
+    </nav> </header> <!-- END header -->
 
       <section class="site-section py-lg">
         <div class="container">

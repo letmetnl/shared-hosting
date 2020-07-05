@@ -7,7 +7,7 @@
 padding-top: 21px;">
         <div class="container container-fluid ">
             <div class="row d-flex justify-content-center">
-                <div class="  footer-logo-mob col-lg-3 col-md-3 col-6  d-lg-flex align-items-end justify-content-center flex-column ">
+                <div class=" d-none d-sm-block footer-logo-mob col-lg-3 col-md-3 col-6  d-lg-flex align-items-end justify-content-center flex-column ">
                     <div class="footer-section d-flex align-items-center ">
                         <a class="navbar-brand " href="/">
                             <svg version="1.0" xmlns="https://www.w3.org/2000/svg" width="100px" height=""
