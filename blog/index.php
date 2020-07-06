@@ -95,7 +95,7 @@
       <div class="row">
         <div class="col-md-12">
 
-          <div class="owl-carousel owl-theme home-slider">
+          <div class="owl-carousel owl-theme home-slider d-none d-sm-block">
             <div>
               <a href="What-is-Malaria-and-how-you-can-help-reduce-its-damage-in-the-world.php" class="a-block d-flex align-items-center height-lg"
                 style="background-image: url('blog images/malaria.jpg'); ">
