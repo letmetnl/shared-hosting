@@ -298,28 +298,31 @@
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="counter-item text-center mb-5 mb-lg-0">
 								<div class="icon-box"><i aria-hidden="true" class="fas fa-users fa-3x"></i></div>
-								<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
+								<p class="mt-3">Users</p>
+								<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
 										style="font-size: 50px;color: #ffffff;">969</span></h3>
-								<p>Users</p>
+								
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6 ">
 							<div class="counter-item text-center mb-5 mb-lg-0">
 								<div class="icon-box"><i aria-hidden="true" class="fas fa-money-bill-wave fa-3x"></i></div>
-								<h3 class="mb-0 mt-4 counter"><span style="font-size: 50px;color: #ffffff;">€</span><span
+								<p class="mt-3">Donated</p>
+								<h3 class="mb-0 mt-3 counter"><span style="font-size: 50px;color: #ffffff;">€</span><span
 										class="counter-stat font-weight-bold"
 										style="font-size: 50px;color: #ffffff;">2,863.09</span>
 								</h3>
-								<p>Donated</p>
+								
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6 col-sm-6">
 							<div class="counter-item text-center mb-5 mb-lg-0">
 								<div class="icon-box"><i aria-hidden="true" class="fas fa-cloud fa-3x"></i></div>
-								<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
+								<p class="mt-3">Tabs Opened</p>
+								<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
 										style="font-size: 50px;color: #ffffff;">161,180</span>
 								</h3>
-								<p>Tabs Opened</p>
+								
 							</div>
 						</div>
 
@@ -380,7 +383,9 @@ font-family: Nunito;
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 d-flex justify-content-center">
-							<div class="macbook mt-4 ">
+							<div class="macbook mt-4 " style="
+										max-width: 700px;
+									">
 								<img src="images/macbook.png" alt="">
 							</div>
 
@@ -538,10 +543,11 @@ font-family: Nunito;
 									<div class=" counter-item text-center mb-lg-0 mt-4 " ">
 									<div class=" icon-box"><i aria-hidden="true" class="fas fa-money-bill-wave fa-3x"></i>
 									</div>
-									<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
+									<p class="mt-3">Microloans Provided</p>
+									<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
 											style="color: #ffffff; font-size: 50px;">103</span>
 									</h3>
-									<p>Microloans Provided</p>
+									
 								</div>
 							</div>
 
@@ -551,10 +557,11 @@ font-family: Nunito;
 								<div class="counter-item text-center  mb-lg-0 mt-5">
 									<div class="icon-box"><i aria-hidden="true" class="fas fa-globe-americas fa-3x"></i>
 									</div>
-									<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
+									<p class="mt-3">Countries</p>
+									<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
 											style="color: #ffffff; font-size: 50px;">18</span>
 									</h3>
-									<p>Countries</p>
+									
 								</div>
 							</div>
 
@@ -607,10 +614,11 @@ font-family: Nunito;
 
 								<div class="counter-item text-center  mb-lg-0 mt-4 ">
 									<div class="icon-box"><i aria-hidden="true" class="fas fa-tree fa-3x"></i></div>
-									<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
+									<p class="mt-3">Trees Saved</p>
+									<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
 											style="color: #ffffff; font-size: 50px;">22,360</span>
 									</h3>
-									<p>Trees Saved</p>
+									
 								</div>
 							</div>
 
@@ -620,10 +628,10 @@ font-family: Nunito;
 								<div class="counter-item text-center  mb-lg-0 mt-5">
 									<div class="icon-box"><i aria-hidden="true" class="fas fa-map-marked-alt fa-3x"></i>
 									</div>
-									<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
+									<p class="mt-3">Acres Saved</p>
+									<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
 											style="color: #ffffff; font-size: 50px;">26</span>
 									</h3>
-									<p>Acres Saved</p>
 								</div>
 							</div>
 
@@ -682,10 +690,10 @@ font-family: Nunito;
 								<div class="counter-item text-center mb-5 mb-lg-0 mt-4" style="color: white;">
 									<div class="icon-box"><i aria-hidden="true" class="fas fa-bed fa-3x"></i>
 									</div>
-									<h3 class="mb-0 mt-4 counter"><span class="counter-stat font-weight-bold"
+									<p class="mt-3">Nets Funded</p>
+									<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
 											style="font-size: 50px;color: #ffffff;">14</span>
 									</h3>
-									<p>Nets Funded</p>
 								</div>
 							</div>
 							<div class="w-100"></div>

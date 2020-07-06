@@ -232,12 +232,12 @@
                 <div class="post-entry-sidebar">
                   <ul>
                     <li>
-                      <a href="en-que-consisten-los-microcreditos.php">
-                        <img src="blog images/article_1thump.jpg" alt="Image placeholder" class="mr-4">
+                      <a href="How-global-deforestation-affects-us.php">
+                        <img src="blog images/forest.jpg" alt="Image placeholder" class="mr-4">
                         <div class="text">
-                          <h4>¿En qué consisten los microcréditos?</h4>
+                          <h4>How global deforestation affects us</h4>
                           <div class="post-meta">
-                            <span class="mr-2">May 3, 2020</span>
+                            <span class="mr-2">July 5, 2020</span>
                           </div>
                         </div>
                       </a>

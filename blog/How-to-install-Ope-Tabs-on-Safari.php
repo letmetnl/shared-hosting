@@ -163,12 +163,12 @@
                 <div class="post-entry-sidebar">
                   <ul>
                     <li>
-                      <a href="en-que-consisten-los-microcreditos.php">
-                        <img src="blog images/article_1thump.jpg" alt="Image placeholder" class="mr-4">
+                      <a href="How-to-Solve-Poverty-&-Why-is-it-Our-Problem.php">
+                        <img src="blog images/end-poverty.jpg" alt="Image placeholder" class="mr-4">
                         <div class="text">
-                          <h4>¿En qué consisten los microcréditos?</h4>
+                          <h4>How to Solve Poverty & Why is it “Our” Problem?</h4>
                           <div class="post-meta">
-                            <span class="mr-2">May 3, 2020</span>
+                            <span class="mr-2">May 10, 2020</span>
                           </div>
                         </div>
                       </a>

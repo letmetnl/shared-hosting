@@ -97,35 +97,33 @@
 
           <div class="owl-carousel owl-theme home-slider">
             <div>
-              <a href="en-que-consisten-los-microcreditos.php" class="a-block d-flex align-items-center height-lg"
-                style="background-image: url('blog images/article_1thump.jpg'); ">
+              <a href="What-is-Malaria-and-how-you-can-help-reduce-its-damage-in-the-world.php" class="a-block d-flex align-items-center height-lg"
+                style="background-image: url('blog images/malaria.jpg'); ">
                 <div class="text half-to-full">
                   <div class="post-meta">
-                    <span class="mr-2">May 3, 2020 </span>
+                    <span class="mr-2">July 7, 2020  </span>
                   </div>
-                  <h3>¿En qué consisten los microcréditos?</h3>
-                  <p>Parece mentira que hoy en día sigue habiendo más de 600 millones de personas (8% de la
-                    población
-                    mundial) viviendo en pobreza extrema (ganando menos de $1.9 al día), y muchos mas viviendo en
-                    pobreza
-                    relativa. Pero la buena noticia es que hemos reducido esta estadística drásticamente (con 2.000
-                    millones de personas viviendo en pobreza extrema en los 80).</p>
+                  <h3>What is Malaria and how you can help reduce its damage in the world</h3>
+                  <p>When talking about Malaria, we are typically talking about the fact that it has killed more humans in
+              history. <br> It is believed that this illness has a prehistoric origin due to the fact that the transmitter species
+              have spent more time on the earth than us. Moreover, some studies have found registers where Greeks talked
+              about an epidemic of sporadic fever in the regions where the disease is present.</p>
 
                 </div>
               </a>
             </div>
             <div>
-              <a href="How-can-you-help-OpenTabs.php" class="a-block d-flex align-items-center height-lg"
-                style="background-image: url('blog images/help-ot.jpg'); ">
+              <a href="How-global-deforestation-affects-us.php" class="a-block d-flex align-items-center height-lg"
+                style="background-image: url('blog images/forest.jpg'); ">
                 <div class="text half-to-full">
                   <div class="post-meta">
-                    <span class="mr-2">May 6, 2020 </span>
+                    <span class="mr-2">July 5, 2020 </span>
                   </div>
-                  <h3>How can you help OpenTabs?</h3>
-                  <p>OpenTabs is a non-profit that primarily relies on the goodwill of others. Be it our users,
-                    sponsors, donors, or key partners, there’s a huge community helping us make the world a
-                    better place. If you would like to learn more about how you can help, here are three very
-                    important ways</p>
+                  <h3>How global deforestation affects us</h3>
+                  <p>To start we must know deforestation’s definition to know what we are talking about
+              since it goes beyond what people think, simply based solely on the <b> Amazon
+                rainforest deforestation </b>or the Australian fires since they are the most recent
+              <b>deforestation examples</b>. but what is deforestation really?</p>
 
                 </div>
               </a>
@@ -156,6 +154,30 @@
         </div>
       </div>
       <div class="row">
+      <div class="col-md-6 col-lg-4">
+          <a href="What-is-Malaria-and-how-you-can-help-reduce-its-damage-in-the-world.php" class="a-block d-flex align-items-center height-md"
+            style="background-image: url('blog images/malaria.jpg'); ">
+            <div class="text">
+              <div class="post-meta">
+                <span class="mr-2">July 7, 2020</span>
+              </div>
+              <h3>What is Malaria and how you can help reduce its damage in the world</h3>
+            </div>
+          </a>
+        </div>
+
+      <div class="col-md-6 col-lg-4">
+          <a href="How-global-deforestation-affects-us.php" class="a-block d-flex align-items-center height-md"
+            style="background-image: url('blog images/forest.jpg'); ">
+            <div class="text">
+              <div class="post-meta">
+                <span class="mr-2">July 5, 2020</span>
+              </div>
+              <h3>How global deforestation affects us</h3>
+            </div>
+          </a>
+        </div>
+
         <div class="col-md-6 col-lg-4">
           <a href="How-to-install-Ope-Tabs-on-Safari.php" class="a-block d-flex align-items-center height-md"
             style="background-image: url(images/safari-thumpnail.png); ">
@@ -193,7 +215,7 @@
           </a>
         </div>
 
-        <div class="col-md-6 col-lg-6">
+        <div class="col-md-6 col-lg-4">
           <a href="How-can-you-help-OpenTabs.php" class="a-block d-flex align-items-center height-md"
             style="background-image: url('blog images/help-ot.jpg');  ">
             <div class="text">
@@ -206,20 +228,7 @@
         </div>
 
 
-        <div class="col-md-6 col-lg-6">
-          <a href="en-que-consisten-los-microcreditos.php" class="a-block d-flex align-items-center height-md"
-            style="background-image: url('blog images/article_1thump.jpg'); ">
-            <div class="text">
-              <div class="post-meta">
-                <span class="mr-2">May 3, 2020 </span>
-              </div>
-              <h3>¿En qué consisten los microcréditos?</h3>
-            </div>
-          </a>
-        </div>
-      </div>
-    </div>
-
+        
 
   </section>
   <!-- END section -->

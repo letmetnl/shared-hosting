@@ -1398,6 +1398,8 @@ h3.quote::before {
   margin-left: 15px;
 }
 
+
+
 /*=== MEDIA QUERY ===*/
 @media (max-width: 400px) {
   .header-top .header-top-info a {
@@ -1477,7 +1479,7 @@ h3.quote::before {
   }
 
   .macbook {
-    max-width: 450px;
+    max-width: 400px;
   }
 
   .macbook img {

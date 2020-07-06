@@ -182,12 +182,12 @@
                 <div class="post-entry-sidebar">
                   <ul>
                     <li>
-                      <a href="en-que-consisten-los-microcreditos.php">
-                        <img src="blog images/article_1thump.jpg" alt="Image placeholder" class="mr-4">
+                      <a href="What-is-Malaria-and-how-you-can-help-reduce-its-damage-in-the-world.php">
+                        <img src="blog images/malaria.jpg" alt="Image placeholder" class="mr-4">
                         <div class="text">
-                          <h4>¿En qué consisten los microcréditos?</h4>
+                          <h4>What is Malaria and how you can help reduce its damage in the world</h4>
                           <div class="post-meta">
-                            <span class="mr-2">May 3, 2020 </span>
+                            <span class="mr-2">July 7, 2020</span>
                           </div>
                         </div>
                       </a>
