@@ -99,7 +99,7 @@
 		<header class="navigation">
 
 
-			<nav class="navbar navbar-expand-lg  py-4" id="navbar">
+			<nav class="navbar fixed-top navbar-expand-lg  py-4" id="navbar">
 				<div class="container" id="tabs">
 
 					<a class="navbar-brand" href="/">
