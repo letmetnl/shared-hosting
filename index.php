@@ -163,30 +163,43 @@
 										line-height: 65px;
 									">MAKING AN IMPACT<br>HAS NEVER<br>BEEN EASIER</h1>
 
-									<div class="block col pl-0 ">
-
-
-									<button
-										class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center add-chrome"
+<div class="block col pl-0 ">
+									<a href="https://chrome.google.com/webstore/detail/opentabs/igeeighenacaciapkehcacnojlegbnpa"
+										target="_blank"
+										class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center "
 										style="
-														max-width: 250px;
-														font-family: Poppins, sans-serif;
-														font-size: 14px;
-														font-weight: 600;
-													">
-										<span class="elementor-button-content-wrapper ">
-											<span class="elementor-button-icon elementor-align-icon-left" style="
-														font-weight: 400;
-														">
-												<i aria-hidden="true" class="fas fa-arrow-alt-circle-down"></i> </span>
-											<span class="elementor-button-text" style="
-														letter-spacing: 1px;
-													
-														"> &nbsp; Add to Browser</span>
+										max-width: 250px;
+										font-family: Poppins, sans-serif;
+										font-size: 15px;
+									 "><span class="elementor-button-content-wrapper  >
+									 class=" elementor-button-icon elementor-align-icon-left">
+											<i aria-hidden="true" class="fab fa-chrome"></i> </span>
+										<span class="elementor-button-text">&nbsp; &nbsp; ADD TO CHROME</span>
+										</span></a>
+										<a href="blog/How-to-install-Ope-Tabs-on-Safari.php" target="_blank"
+										class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center mt-3 mb-3"
+										style="
+										max-width: 250px;
+										font-size: 15px;
+									   "><span class="elementor-button-content-wrapper">
+											<span class="elementor-button-icon elementor-align-icon-left">
+												<i aria-hidden="true" class="fab fa-safari"></i> </span>
+											<span class="elementor-button-text">&nbsp; &nbsp; Add To Safari</span>
 										</span>
-									</button>
-
-									</div>
+									</a>
+										<a href="https://addons.mozilla.org/en-US/firefox/addon/opentabs_org/" target="_blank"
+										class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center mt-3"
+										style="
+										max-width: 250px;
+										font-size: 15px;
+									 "><span class="elementor-button-content-wrapper">
+											<span class="elementor-button-icon elementor-align-icon-left">
+												<i aria-hidden="true" class="fab fa-firefox"></i> </span>
+											<span class="elementor-button-text">&nbsp; &nbsp; ADD TO firefox</span>
+										</span>
+									</a>
+									
+								</div>
 							</div>
 						</div>
 					</div>
@@ -349,30 +362,23 @@ font-family: Nunito;
 
 							</div>
 							<div class="d-flex justify-content-center mt-5">
-							<div class="block col pl-0 d-flex justify-content-center">
-
-
-									<button
-										class="btn btn-primary animated fadeInUp btn-round-full  add-chrome"
-										style="
-														max-width: 250px;
-														font-family: Poppins, sans-serif;
-														font-size: 14px;
-														font-weight: 600;
-													">
-										<span class="elementor-button-content-wrapper ">
-											<span class="elementor-button-icon elementor-align-icon-left" style="
-														font-weight: 400;
-														">
-												<i aria-hidden="true" class="fas fa-arrow-alt-circle-down"></i> </span>
-											<span class="elementor-button-text" style="
-														letter-spacing: 1px;
-													
-														"> &nbsp; Add to Browser</span>
-										</span>
-									</button>
-
-									</div>	
+							<a href="#tabs"
+									class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center "
+									style="
+										max-width: 250px;
+										font-family: Poppins, sans-serif;
+										font-size: 15px;
+									"><span class="elementor-button-content-wrapper ">
+										<span class="elementor-button-icon elementor-align-icon-left" style="
+									font-weight: 400;
+								">
+											<i aria-hidden="true" class="fas fa-arrow-alt-circle-down"></i> </span>
+										<span class="elementor-button-text" style="
+									letter-spacing: 1px;
+									
+								"> &nbsp; Add to Browser</span>
+									</span>
+								</a>	
 						
 							</div>
 						</div>
@@ -878,32 +884,26 @@ font-family: Nunito;
 					</a>
 				</div>
 				<div class="d-flex justify-content-center mt-5">
-				<div class="block col pl-0 d-flex justify-content-center">
-
-
-									<button
-										class="btn btn-primary animated fadeInUp btn-round-full  add-chrome"
-										style="
-														max-width: 250px;
-														font-family: Poppins, sans-serif;
-														font-size: 14px;
-														font-weight: 600;
-														border-color: #0080ff;
+				<a href="#tabs"
+						class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center "
+						style="
+							max-width: 250px;
+							font-family: Poppins, sans-serif;
+							font-size: 15px;
+							border-color: #0080ff;
 							border: 2px solid;
-													">
-										<span class="elementor-button-content-wrapper ">
-											<span class="elementor-button-icon elementor-align-icon-left" style="
-														font-weight: 400;
-														">
-												<i aria-hidden="true" class="fas fa-arrow-alt-circle-down"></i> </span>
-											<span class="elementor-button-text" style="
-														letter-spacing: 1px;
-													
-														"> &nbsp; Add to Browser</span>
-										</span>
-									</button>
 
-									</div>		
+						"><span class="elementor-button-content-wrapper ">
+							<span class="elementor-button-icon elementor-align-icon-left" style="
+						font-weight: 400;
+					">
+								<i aria-hidden="true" class="fas fa-arrow-alt-circle-down"></i> </span>
+							<span class="elementor-button-text" style="
+						letter-spacing: 1px;
+						
+					"> &nbsp; Add to Browser</span>
+						</span>
+					</a>	
 			
 
 				</div>
