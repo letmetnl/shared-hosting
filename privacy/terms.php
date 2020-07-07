@@ -119,27 +119,32 @@
 						</ul>
 
 						<form class="add-now form-lg-inline my-2 my-md-0 ml-lg-4 text-center">
-							<a href="https://chrome.google.com/webstore/detail/opentabs/igeeighenacaciapkehcacnojlegbnpa"
-								class="btn btn-primary animated fadeInUp btn-round-full d-flex justify-content-center add-chrome"
-								style="
-									padding-top: 15px;
-    								padding-bottom: 15px;
-									max-width: 250px;
-									font-family: Poppins, sans-serif;
-									font-size: 15px;
-									border-color: #0080ff;
-									border: 2px solid;
-								"><span class="elementor-button-content-wrapper ">
-									<span class="elementor-button-icon elementor-align-icon-left" style="
-								font-weight: 400;
-							">
-										<i aria-hidden="true" class="fas fa-arrow-alt-circle-down"></i> </span>
-									<span class="elementor-button-text" style="
-								letter-spacing: 1px;
-								
-							"> &nbsp; add extension</span>
-								</span>
-							</a>
+						<div class="block col pl-0 d-flex justify-content-center">
+
+
+<button
+	class="btn btn-primary animated fadeInUp btn-round-full  add-chrome"
+	style="
+					max-width: 250px;
+					font-family: Poppins, sans-serif;
+					font-size: 14px;
+					font-weight: 600;
+					border-color: #0080ff;
+border: 2px solid;
+				">
+	<span class="elementor-button-content-wrapper ">
+		<span class="elementor-button-icon elementor-align-icon-left" style="
+					font-weight: 400;
+					">
+			<i aria-hidden="true" class="fas fa-arrow-alt-circle-down"></i> </span>
+		<span class="elementor-button-text" style="
+					letter-spacing: 1px;
+				
+					"> &nbsp; Add to Browser</span>
+	</span>
+</button>
+
+</div>
 						</form>
 					</div>
 				</div>
@@ -387,6 +392,7 @@
 		=====================================-->
 		<script src="https://unpkg.com/@popperjs/core@2"></script>
 		<script src="https://unpkg.com/tippy.js@6"></script>
+		<script src="../js/browserDetect.js"></script>
 
 		<!-- Main jQuery -->
 
