@@ -62,28 +62,9 @@
       </div>
     </div>
 
-    <nav class=" navbar-expand  navbar-light ">
-      <div class="container">
-
-
-        <div class="collapse navbar-collapse" id="navbarMenu">
-          <ul class="navbar-nav mx-auto">
-
-            <li class="nav-item">
-              <a class="nav-link " href="/blog">Blog</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link " href="../">Home</a>
-            </li>
-
-
-            <li class="nav-item">
-              <a class="nav-link" href="../financials">Financials</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav> </header> <!-- END header -->
+    <?php 
+  include('../includes/blog-header.php');
+  ?> </header> <!-- END header -->
 
       <section class="site-section py-lg">
         <div class="container">

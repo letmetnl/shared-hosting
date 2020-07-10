@@ -614,12 +614,10 @@ ul.dropdown-menu li {
   background-position: center;
 }
 
-.macbook {
-  max-width: 882px;
-}
+
 
 .macbook img {
-  max-width: 800px;
+  max-width: 683px;
 
 }
 
@@ -1483,7 +1481,7 @@ h3.quote::before {
   }
 
   .macbook img {
-    max-width: 50px;
+    max-width: 410px;
 
   }
 }

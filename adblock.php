@@ -150,7 +150,7 @@
 		<!-- main wrapper start -->
 		<div class="main-wrapper">
 			<section class="section">
-				<div class="container col-7">
+				<div class="container col-lg-7 col-12">
 					<div>
 						<h1 style="
 						padding-bottom: 50px;
