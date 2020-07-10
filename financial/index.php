@@ -76,7 +76,7 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="/financials">Financials</a>
+              <a class="nav-link" href="../financial">Financials</a>
             </li>
           </ul>
 
