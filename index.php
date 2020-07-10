@@ -431,9 +431,7 @@ font-family: Nunito;background-color: #fff;
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-2 ">
-						<div class="d-flex justify-content-center0" style="
-												margin-left: 20px;
-											">
+						<div class="d-flex justify-content-center0" >
 							<a href="http://www.jacobs-startup.com/" target="_blank"><img
 									class="hvr-grow d-flex align-items-center" src="images/Jacobs.png" alt=""
 									style="height: 92px;margin-bottom: 10px;"></a>
@@ -455,7 +453,9 @@ font-family: Nunito;background-color: #fff;
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-2 ">
-						<div class="d-flex justify-content-center">
+						<div class="d-flex justify-content-center" style="
+												margin-left: 20px;
+											">
 							<a href="https://www.ie.edu/business-school/news-and-events/whats-going-on/ie-green-week-sustainable-entrepreneurship-waste-management/"
 								target="_blank"><img class="hvr-grow d-flex align-items-center" src="images/IE.png"
 									alt="" style="height: 100px;"></a>
