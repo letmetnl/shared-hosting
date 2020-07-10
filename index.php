@@ -431,7 +431,7 @@ font-family: Nunito;background-color: #fff;
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-2 ">
-						<div class="d-flex justify-content-center0" >
+						<div class="d-flex justify-content-center" >
 							<a href="http://www.jacobs-startup.com/" target="_blank"><img
 									class="hvr-grow d-flex align-items-center" src="images/Jacobs.png" alt=""
 									style="height: 92px;margin-bottom: 10px;"></a>
