@@ -87,7 +87,7 @@ padding-top: 21px;">
                     </ul>
                 </div>
                 <div
-                    class=" footer-logo-mob col-lg-3 col-md-3 col-6  d-lg-flex align-items-center justify-content-center flex-column ">
+                    class=" footer-logo-mob col-lg-3 col-md-3 col-6  d-flex align-items-center justify-content-center flex-column ">
                     <div class="footer-section d-flex align-items-center ">
                         <a class="navbar-brand " href="/">
                             <svg version="1.0" xmlns="https://www.w3.org/2000/svg" width="100px" height=""
