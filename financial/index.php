@@ -56,7 +56,7 @@
         <div class="col-12 text-center">
           <a class=" d-block d-md-none" data-toggle="collapse" href="#navbarMenu" role="button"
             aria-expanded="false" aria-controls="navbarMenu"><span class="burger-lines"></span></a>
-          <h1 class="site-logo"><a href="/financials">OpenTabs Financials</a></h1>
+          <h1 class="site-logo"><a href="../financial">OpenTabs Financials</a></h1>
         </div>
       </div>
     </div>
