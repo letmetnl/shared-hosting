@@ -54,13 +54,13 @@
     <div class="container logo-wrap">
       <div class="row pt-5">
         <div class="col-12 text-center">
-          <a class="absolute-toggle d-block d-md-none" data-toggle="collapse" href="#navbarMenu" role="button"
+          <a class=" d-block d-md-none" data-toggle="collapse" href="#navbarMenu" role="button"
             aria-expanded="false" aria-controls="navbarMenu"><span class="burger-lines"></span></a>
           <h1 class="site-logo"><a href="/financials">OpenTabs Financials</a></h1>
         </div>
       </div>
     </div>
-    <nav class="navbar navbar-expand-md  navbar-light bg-light">
+    <nav class="navbar-expand  navbar-light">
       <div class="container">
 
 
@@ -89,7 +89,7 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-md-6 col-lg-4 d-flex align-items-center">
+        <div class="col-md-6 col-lg-4 d-flex align-items-center justify-content-center">
           <a href="Annual Report 2019.pdf" class="a-block d-flex align-items-center height-md"
             style="background-image: url(images/photo-1473448912268-2022ce9509d8.jpg); ">
             <div class=" text text-center">
