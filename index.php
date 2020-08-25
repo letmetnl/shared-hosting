@@ -629,7 +629,7 @@ font-family: Nunito;
 								</div>
 								<p class="mt-3">Acres Saved</p>
 								<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
-										style="color: #ffffff; font-size: 50px;">26</span>
+										style="color: #ffffff; font-size: 50px;">43</span>
 								</h3>
 							</div>
 						</div>
