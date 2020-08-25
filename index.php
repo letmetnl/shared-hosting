@@ -301,7 +301,7 @@
 							<div class="icon-box"><i aria-hidden="true" class="fas fa-users fa-3x"></i></div>
 							<p class="mt-3">Users</p>
 							<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
-									style="font-size: 50px;color: #ffffff;">969</span></h3>
+									style="font-size: 50px;color: #ffffff;">1,317</span></h3>
 
 						</div>
 					</div>
@@ -311,7 +311,7 @@
 							<p class="mt-3">Donated</p>
 							<h3 class="mb-0 mt-3 counter"><span style="font-size: 50px;color: #ffffff;">€</span><span
 									class="counter-stat font-weight-bold"
-									style="font-size: 50px;color: #ffffff;">2,863.09</span>
+									style="font-size: 50px;color: #ffffff;">2,914.09</span>
 							</h3>
 
 						</div>
