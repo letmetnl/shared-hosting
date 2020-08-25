@@ -301,7 +301,7 @@
 							<div class="icon-box"><i aria-hidden="true" class="fas fa-users fa-3x"></i></div>
 							<p class="mt-3">Users</p>
 							<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
-									style="font-size: 50px;color: #ffffff;">1,318</span></h3>
+									style="font-size: 50px;color: #ffffff;">1,327</span></h3>
 
 						</div>
 					</div>
@@ -311,7 +311,7 @@
 							<p class="mt-3">Donated</p>
 							<h3 class="mb-0 mt-3 counter"><span style="font-size: 50px;color: #ffffff;">€</span><span
 									class="counter-stat font-weight-bold"
-									style="font-size: 50px;color: #ffffff;">2,914.09</span>
+									style="font-size: 50px;color: #ffffff;">2,892.14</span>
 							</h3>
 
 						</div>
@@ -615,7 +615,7 @@ font-family: Nunito;
 								<div class="icon-box"><i aria-hidden="true" class="fas fa-tree fa-3x"></i></div>
 								<p class="mt-3">Trees Saved</p>
 								<h3 class="mb-0 mt-3 counter"><span class="counter-stat font-weight-bold"
-										style="color: #ffffff; font-size: 50px;">22,360</span>
+										style="color: #ffffff; font-size: 50px;">37,096</span>
 								</h3>
 
 							</div>
