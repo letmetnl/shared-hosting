@@ -162,7 +162,7 @@
 
 							<h1 class="animated fadeInUp mb-5 POVERTY" style="
 										line-height: 65px;
-									">MAKING AN IMPACT<br>HAS NEVER<br>BEEN EASIER</h1>
+									">FIGHT POVERTY &<br>CLIMATE CHANGE<br>BY OPENING TABS</h1>
 
 							<div class="block col pl-0 ">
 								<a href="https://chrome.google.com/webstore/detail/opentabs/igeeighenacaciapkehcacnojlegbnpa"
@@ -225,17 +225,12 @@
 							</h2>
 							<p style="
 								color: white;
-							">OpenTabs is a non-profit startup aiming to end poverty and stop climate change in innovative ways. Our mission
-								is to be the most affordable and convenient way of having an impact. For this reason,
-								we created a free web browser extension that allows you to passively raise funds
-								towards providing microloans, saving rainforests, and preventing malaria, simply by
-								opening new tabs.
+							">OpenTabs is a non-profit with a free web browser extension that allows you to passively help a good cause by simply opening new tabs. The funds we collect go towards providing poverty-reducing microloans, and once repaid, we use the same funds to protect rainforests around the world. This ensures that every tab you open goes towards fighting both poverty and climate change.
 							</p>
+							<br>
 							<p style="
 								color: white;
-							">Just think of how many tabs you open, and now imagine changing the world by doing just that. Download OpenTabs
-								and start making an impact with no additional effort. Changing the world has never
-								been easier.
+							">Turn your new tab page into a force of good with OpenTabs.
 							</p>
 
 
@@ -339,14 +334,7 @@ font-family: Nunito;
 				 				  padding-bottom: 35px;">How does it work?
 							</h2>
 
-							<p style="color: #ffffff;">Our idea is so simple that you are bound to fall in love with
-								it. Our extension replaces your default new tab page and includes cool features such as
-								an improved layout and stunning background pictures. We place a couple banner
-								advertisements in the corner and raise about 1/10 of a cent per tab. Although small,
-								just think of how many tabs you open in a day, month, or year, and multiply that by
-								everyone that has a browser! We're not joking when we say that making an impact has
-								never been easier.
-
+							<p style="color: #ffffff;">OpenTabs replaces your default new tab page and includes cool features such as an improved layout and stunning background pictures. We place a couple banner advertisements in the corner and raise about 1/10 of a cent per tab, equivalent to about 1 tree saved. Think of how many tabs you open in a day, month, or year, and multiply that by everyone that has a browser! Making an impact has never been easier.
 							</p>
 
 
@@ -671,6 +659,7 @@ font-family: Nunito;
 
 	<!--End- forest section-->
 	<!--malaria section-->
+	<!--
 
 	<section class="section about-2 position-relative  bg-about-malaria wow fadeIn 
 		 " data-wow-duration="1.5s" style="
@@ -747,9 +736,8 @@ font-family: Nunito;
 
 
 	</section>
-
-
-
+	
+	-->
 	<!--End- malaria section-->
 
 	<section class="section about-2 position-relative  cards " style="
