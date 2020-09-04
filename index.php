@@ -86,7 +86,9 @@
 	<noscript><img height="1" width="1" style="display:none"
 			src="https://www.facebook.com/tr?id=243670723716947&ev=PageView&noscript=1" /></noscript>
 	<!-- End Facebook Pixel Code -->
-
+    <!-- AdSense Code -->
+	<script data-ad-client="ca-pub-1118184518584231" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- End AdSense Code -->
 </head>
 
 <body>
