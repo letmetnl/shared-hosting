@@ -123,6 +123,8 @@ padding-top: 21px;">
                         <li><a class="footer-list-hover" href="/index.php">Home</a></li>
                         <li><a class="footer-list-hover" href="https://donorbox.org/opentabs" target="_blank">Donate</a>
                         </li>
+                        <li><a class="footer-list-hover" href="../volunteer.html" target="_blank">Volunteer Us</a>
+                        </li>
                         <li><a class="footer-list-hover" href="/privacy">Privacy</a></li>
                         <li><a class="footer-list-hover" href="/privacy/terms.php">Terms</a></li>
                         <li><a class="footer-list-hover" href="https://forms.gle/TqrAMAf5Pc6U8WK38"
